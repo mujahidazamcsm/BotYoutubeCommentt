@@ -99,5 +99,5 @@ class YoutubeBot:
        
 # Entre com o usuário e senha aqui
 
-jhonatanBot = YoutubeBot("seu email","sua senha")
-jhonatanBot.login()
+Bot = YoutubeBot("seu email","sua senha")
+Bot.login()
